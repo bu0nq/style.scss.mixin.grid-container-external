@@ -1,0 +1,7 @@
+@mixin grid-external-container(
+  $container-size,
+  $spacing-size: 1fr
+) {
+  display: grid;
+  grid-template-columns: [grid-external-container-left] minmax(0, $spacing-size) [grid-external-container-start] $container-size [grid-external-container-end] minmax(0, $spacing-size) [grid-external-container-right];
+}
