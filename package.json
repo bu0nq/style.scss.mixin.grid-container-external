@@ -2,7 +2,7 @@
   "name": "@bu0nq/style.scss.mixin.grid-external-container",
   "version": "0.1.0",
   "description": "Package for integrating Style.SCSS.Mixin.Container",
-  "main": "grid-external-container.scss",
+  "main": "grid-container-outer.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

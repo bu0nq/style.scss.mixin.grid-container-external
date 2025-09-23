@@ -1,0 +1,7 @@
+@mixin grid-container-outer(
+  $container,
+  $spacing
+) {
+  display: grid;
+  grid-template-columns: [grid-container-outer-left] $spacing [grid-container-outer-start] $container [grid-container-outer-end] $spacing [grid-container-outer-right];
+}
