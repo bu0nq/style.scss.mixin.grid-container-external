@@ -1,20 +1,22 @@
 {
-  "name": "@bu0nq/style.scss.mixin.grid-external-container",
+  "name": "@bu0nq/style.scss.mixin.grid-container-outer",
   "version": "0.1.0",
-  "description": "Package for integrating Style.SCSS.Mixin.Container",
+  "description": "Package for integrating Style.SCSS.Mixin.GridContainerOuter",
   "main": "grid-container-outer.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bu0nq/style.scss.mixin.grid-external-container.git"
+    "url": "git+https://github.com/bu0nq/style.scss.mixin.grid-container-outer.git"
   },
   "keywords": [
     "style",
     "scss",
     "mixin",
-    "grid-external-container"
+    "grid",
+    "container",
+    "outer"
   ],
   "author": {
     "name": "bu0nq",
@@ -22,9 +24,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bu0nq/style.scss.mixin.grid-external-container/issues"
+    "url": "https://github.com/bu0nq/style.scss.mixin.grid-container-outer/issues"
   },
-  "homepage": "https://github.com/bu0nq/style.scss.mixin.grid-external-container#readme",
+  "homepage": "https://github.com/bu0nq/style.scss.mixin.grid-container-outer#readme",
   "publishConfig": {
     "access": "public"
   }
